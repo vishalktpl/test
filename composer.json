@@ -1,5 +1,5 @@
 {
-    "name": "dys/team",
+    "name": "ktpl/popup",
     "description": "N/A",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0"
@@ -21,7 +21,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Dys\\Team\\": ""
+            "Ktpl\\Popup\\": ""
         }
     }
 }
